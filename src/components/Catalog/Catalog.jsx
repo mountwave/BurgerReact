@@ -1,5 +1,6 @@
 import { Container } from "../Container/Container.jsx";
 import { Order } from "../Order/Order.jsx";
+
 import './catalog.css';
 import './product.css';
 
